@@ -7,7 +7,7 @@ public class Hello {
     static void parrot(int x){
         String s="";
         for(int i=0;i<x;i++){
-            s=s+"nya ";
+            s=s+"a ";
         }
         System.out.println(s);
     }
